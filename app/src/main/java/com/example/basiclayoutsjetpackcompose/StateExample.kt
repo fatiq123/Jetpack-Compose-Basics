@@ -47,7 +47,6 @@ fun NotificationCounter(count: Int, increment: () -> Unit) {
         }) {
             Text(text = "Send Notification")
         }
-
     }
 }
 
