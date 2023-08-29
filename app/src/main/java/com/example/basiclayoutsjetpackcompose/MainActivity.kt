@@ -22,7 +22,9 @@ class MainActivity : ComponentActivity() {
 //                    GreetingPreview()
 //                Recomposable()
 //                NotificationScreen()
-                Profile()
+
+//                Profile()
+                TopAppBar()
             }
         }
     }
